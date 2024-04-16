@@ -10,6 +10,7 @@ int main() {
     
     // Display the result
     std::cout << "The sum of " << num1 << " and " << num2 << " is: " << sum << std::endl;
+    court<<"hii"<<endl;
     
     return 0;
 }
