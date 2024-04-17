@@ -10,7 +10,7 @@ int main() {
     
     // Display the result
     std::cout << "The sum of " << num1 << " and " << num2 << " is: " << sum << std::endl;
-    cout<<"hii"<<endl;
+
     
     return 0;
 }
